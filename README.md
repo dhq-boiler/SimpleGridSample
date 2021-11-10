@@ -2,7 +2,7 @@
 
 WPFの便利なPanelコントロールを紹介します！
 
-![SimpleGridSample](WebComponents\2021-11-10.png)
+![SimpleGridSample](WebComponents/2021-11-10.png)
 
 ## 使い方
 
